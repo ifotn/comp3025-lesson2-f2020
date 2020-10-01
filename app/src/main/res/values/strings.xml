@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">F20Lesson2</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="login">Login</string>
+</resources>
